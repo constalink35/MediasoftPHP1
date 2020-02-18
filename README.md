@@ -10,7 +10,8 @@
  </ul> 
   (слово) (число вхождений)<br>
   Всего слов (кол-во слов)
-  
+  Функция function countWords($content) находиться в файле
+  ms_task1.php
   
   Работу функции можно посмотреть:
   https://kvltest.000webhostapp.com/ms_task1.php
