@@ -16,3 +16,10 @@
   [ms_task1.php](https://github.com/constalink35/MediasoftPHP/blob/master/ms_task1.php)
   
   Работу функции можно посмотреть [здесь](https://kvltest.000webhostapp.com/ms_task1.php)
+  
+## Задание 2.
+
+[index.php](https://github.com/constalink35/MediasoftPHP/blob/master/task2/index.php)
+
+Работу функции можно посмотреть [здесь](https://kvltest.000webhostapp.com/task2/index.php)
+  
