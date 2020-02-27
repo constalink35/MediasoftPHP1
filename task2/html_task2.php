@@ -32,7 +32,6 @@ HEADER;
 
 }
 
-
 function showFooter() {
 print <<<FOOTER
 <br>
