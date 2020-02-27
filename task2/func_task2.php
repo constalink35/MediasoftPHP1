@@ -69,6 +69,7 @@ function processFile($data){
     // Проверяем, принят ли файл
     if (is_uploaded_file($fileTmp)) {
 
+
 // Проверяем, является ли файл текстом  не пустой ли, не слишком большой;
         if (($fileType == 'text/plain') && ($fileSize>0 && $fileSize<=$maxfileSize)) {
 
