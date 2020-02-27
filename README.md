@@ -10,13 +10,12 @@
  </ul> 
   (слово) (число вхождений)<br>
   Всего слов (кол-во слов)<br>
-  <hr>
   
   Функция ***function countWords($content)*** находиться в файле
   [ms_task1.php](https://github.com/constalink35/MediasoftPHP/blob/master/ms_task1.php)
   
   Работу функции можно посмотреть [здесь](https://kvltest.000webhostapp.com/ms_task1.php)
-  
+  <hr>  
 ## Задание 2.
 
 [index.php](https://github.com/constalink35/MediasoftPHP/blob/master/task2/)
